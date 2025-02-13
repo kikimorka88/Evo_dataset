@@ -14,7 +14,8 @@ arise during the analysis.
 1. What is the cranial capacity in hominins over the evolutionary time? Is there any trend?
 2. Is cranial capacity different between the geographical regions at the similar/different time 
 points or in general?
-...and many more but let's start with the most basic one.
+
+...and many more - but let's start with the most basic ones.
 
 # Jupyter notebooks  
 I used Jupyter notebooks to work with the data.  
