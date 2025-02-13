@@ -44,3 +44,11 @@ and technology use.
 
 # Jupyter notebooks  
 I used Jupyter notebooks to work with the data.  
+In [first notebook](Exercise_6.1) I check the data consistency, correct or transform the data and perform some exploration.  
+In [second notebook](Exercise_6.2) I did some data profiling, checked for correlations and did some plotting.  
+In [third notebook](Exercise_6.3) I explored the geographical component of the data.  
+In [fourth notebook](Exercise_6.4) I focus on linear regression analysis.  
+And in the [fifth notebook](Exercise_6.5) I perform k-means clustering of the data.
+
+# Visualizations
+I've also created a [Tableau Story Board] (https://public.tableau.com/shared/56993Z99T?:display_count=n&:origin=viz_share_link) with these data.
